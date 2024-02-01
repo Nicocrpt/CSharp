@@ -59,3 +59,4 @@ string chaine = Console.ReadLine(); // Erreur de compilation car la methode read
 Console.WriteLine($"Vous avez saisi : {chaine}");
 
 // console.write() rends une chaine de caractère sans passer a la ligne pour après..  permet de poser une question avant un input, sans passer à la ligne
+

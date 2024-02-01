@@ -1,0 +1,15 @@
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/EquationSecondDegre/obj/Debug/net8.0/EquationSecondDegre.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/EquationSecondDegre/obj/Debug/net8.0/EquationSecondDegre.AssemblyInfoInputs.cache
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/EquationSecondDegre/obj/Debug/net8.0/EquationSecondDegre.AssemblyInfo.cs
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/EquationSecondDegre/obj/Debug/net8.0/EquationSecondDegre.csproj.CoreCompileInputs.cache
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/EquationSecondDegre/obj/Debug/net8.0/EquationSecondDegre.sourcelink.json
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/EquationSecondDegre/bin/Debug/net8.0/EquationSecondDegre
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/EquationSecondDegre/bin/Debug/net8.0/EquationSecondDegre.deps.json
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/EquationSecondDegre/bin/Debug/net8.0/EquationSecondDegre.runtimeconfig.json
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/EquationSecondDegre/bin/Debug/net8.0/EquationSecondDegre.dll
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/EquationSecondDegre/bin/Debug/net8.0/EquationSecondDegre.pdb
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/EquationSecondDegre/obj/Debug/net8.0/EquationSecondDegre.dll
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/EquationSecondDegre/obj/Debug/net8.0/refint/EquationSecondDegre.dll
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/EquationSecondDegre/obj/Debug/net8.0/EquationSecondDegre.pdb
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/EquationSecondDegre/obj/Debug/net8.0/EquationSecondDegre.genruntimeconfig.cache
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/EquationSecondDegre/obj/Debug/net8.0/ref/EquationSecondDegre.dll
