@@ -1,0 +1,15 @@
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/calculatrice/obj/Debug/net8.0/calculatrice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/calculatrice/obj/Debug/net8.0/calculatrice.AssemblyInfoInputs.cache
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/calculatrice/obj/Debug/net8.0/calculatrice.AssemblyInfo.cs
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/calculatrice/obj/Debug/net8.0/calculatrice.csproj.CoreCompileInputs.cache
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/calculatrice/obj/Debug/net8.0/calculatrice.sourcelink.json
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/calculatrice/bin/Debug/net8.0/calculatrice
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/calculatrice/bin/Debug/net8.0/calculatrice.deps.json
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/calculatrice/bin/Debug/net8.0/calculatrice.runtimeconfig.json
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/calculatrice/bin/Debug/net8.0/calculatrice.dll
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/calculatrice/bin/Debug/net8.0/calculatrice.pdb
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/calculatrice/obj/Debug/net8.0/calculatrice.dll
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/calculatrice/obj/Debug/net8.0/refint/calculatrice.dll
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/calculatrice/obj/Debug/net8.0/calculatrice.pdb
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/calculatrice/obj/Debug/net8.0/calculatrice.genruntimeconfig.cache
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/calculatrice/obj/Debug/net8.0/ref/calculatrice.dll
