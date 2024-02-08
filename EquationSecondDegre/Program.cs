@@ -14,6 +14,8 @@ b = Convert.ToSingle(Console.ReadLine()) ;
 Console.Write("Entrez C : ") ;
 c = Convert.ToSingle(Console.ReadLine()) ;
 
+// UTILISER PLUTOT LA CONVERSION "to decimal" et une variable decimal pour eviter les problemes d'arrondis
+
 x = 0 ;
 
 f = 0 ;

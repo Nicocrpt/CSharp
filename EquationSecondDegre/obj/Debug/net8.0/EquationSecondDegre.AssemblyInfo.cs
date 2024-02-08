@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EquationSecondDegre")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b97a22c29fc840fbf3e1c3475914a244aeac1b0a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e292f65b54c8e1eee1c8da9276ab46fdf4e2520")]
 [assembly: System.Reflection.AssemblyProductAttribute("EquationSecondDegre")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EquationSecondDegre")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
