@@ -1,0 +1,5 @@
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/NombreMystere/obj/Debug/net8.0/NombreMystere.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/NombreMystere/obj/Debug/net8.0/NombreMystere.AssemblyInfoInputs.cache
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/NombreMystere/obj/Debug/net8.0/NombreMystere.AssemblyInfo.cs
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/NombreMystere/obj/Debug/net8.0/NombreMystere.csproj.CoreCompileInputs.cache
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/NombreMystere/obj/Debug/net8.0/NombreMystere.sourcelink.json
