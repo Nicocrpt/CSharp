@@ -1,0 +1,15 @@
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/LectureEcriture/bin/Debug/net8.0/LectureEcriture
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/LectureEcriture/bin/Debug/net8.0/LectureEcriture.deps.json
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/LectureEcriture/bin/Debug/net8.0/LectureEcriture.runtimeconfig.json
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/LectureEcriture/bin/Debug/net8.0/LectureEcriture.dll
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/LectureEcriture/bin/Debug/net8.0/LectureEcriture.pdb
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/LectureEcriture/obj/Debug/net8.0/LectureEcriture.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/LectureEcriture/obj/Debug/net8.0/LectureEcriture.AssemblyInfoInputs.cache
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/LectureEcriture/obj/Debug/net8.0/LectureEcriture.AssemblyInfo.cs
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/LectureEcriture/obj/Debug/net8.0/LectureEcriture.csproj.CoreCompileInputs.cache
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/LectureEcriture/obj/Debug/net8.0/LectureEcriture.sourcelink.json
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/LectureEcriture/obj/Debug/net8.0/LectureEcriture.dll
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/LectureEcriture/obj/Debug/net8.0/refint/LectureEcriture.dll
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/LectureEcriture/obj/Debug/net8.0/LectureEcriture.pdb
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/LectureEcriture/obj/Debug/net8.0/LectureEcriture.genruntimeconfig.cache
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/LectureEcriture/obj/Debug/net8.0/ref/LectureEcriture.dll
