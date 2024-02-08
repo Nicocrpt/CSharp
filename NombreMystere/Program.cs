@@ -13,6 +13,6 @@ Console.WriteLine($"Bonjour {nom}");
 
 Console.Write($"{nom}, veuillez entrer un nombre : ");
 
-int nbUser = Int.Parse(Console.ReadLine());
+int nbUser = int.Parse(Console.ReadLine());
 
 
