@@ -17,8 +17,21 @@ while (check == true) {
     operation = Console.ReadLine();
     System.Console.WriteLine();
 
-    // Ajout (apres recherche sur internet..) d'un booléen pour verifier si le contenu de l'opération contient bien un opérateur valide
-    bool verificationSymbol = symbols.Any(a => operation.Contains(a)); 
+    // 11/02/2024 Ajout (apres recherche sur internet..) d'un booléen pour verifier si le contenu de l'opération contient bien un opérateur valide
+
+    // bool verificationSymbol = symbols.Any(a => operation.Contains(a)); 
+
+
+    // 11/02/2024 Version plus "Maison" apres reflexion....
+
+    bool verificationSymbol = false ;
+
+    foreach (char i in symbols) {
+        if (operation.Contains(i) == true) {
+            verificationSymbol = true ;
+            break ;
+        }
+    }
 
     if (verificationSymbol == false ) {
         System.Console.WriteLine("Votre operation n'est pas valide !");
