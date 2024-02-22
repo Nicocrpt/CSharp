@@ -1,0 +1,15 @@
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/testascii/bin/Debug/net8.0/testascii
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/testascii/bin/Debug/net8.0/testascii.deps.json
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/testascii/bin/Debug/net8.0/testascii.runtimeconfig.json
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/testascii/bin/Debug/net8.0/testascii.dll
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/testascii/bin/Debug/net8.0/testascii.pdb
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/testascii/obj/Debug/net8.0/testascii.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/testascii/obj/Debug/net8.0/testascii.AssemblyInfoInputs.cache
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/testascii/obj/Debug/net8.0/testascii.AssemblyInfo.cs
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/testascii/obj/Debug/net8.0/testascii.csproj.CoreCompileInputs.cache
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/testascii/obj/Debug/net8.0/testascii.sourcelink.json
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/testascii/obj/Debug/net8.0/testascii.dll
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/testascii/obj/Debug/net8.0/refint/testascii.dll
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/testascii/obj/Debug/net8.0/testascii.pdb
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/testascii/obj/Debug/net8.0/testascii.genruntimeconfig.cache
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/testascii/obj/Debug/net8.0/ref/testascii.dll
