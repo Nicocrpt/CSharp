@@ -24,10 +24,13 @@ void rectangle(int X, int Y, string[] text) {
 
     for (int i = 0; i < Y; i++) {
         System.Console.Write(LIGNE_VERTICALE);
-        for (int e = 0; e < X; e++) {
+        for (int e = 0; e < (X-(text[i].Length))/2; e++) {
             System.Console.Write(" ");
         }
         System.Console.Write(text[i]);
+        for (int e = 0; e < (X-(text[i].Length))/2; e++) {
+            System.Console.Write(" ");
+        }
         
         System.Console.WriteLine(LIGNE_VERTICALE);
 
@@ -52,9 +55,9 @@ void encadrer(string texte) {
     }
     lineLenght.Sort();
     int textLine = lineLenght.Last() ;
-    System.Console.WriteLine(textLine);
+    
     int textHeight = splitted.Count();
-    System.Console.WriteLine(textHeight);
+    
     textLine += 2 ;
 
     rectangle(textLine, textHeight, splitted);
