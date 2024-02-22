@@ -1,0 +1,15 @@
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/multiplications/bin/Debug/net8.0/multiplications
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/multiplications/bin/Debug/net8.0/multiplications.deps.json
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/multiplications/bin/Debug/net8.0/multiplications.runtimeconfig.json
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/multiplications/bin/Debug/net8.0/multiplications.dll
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/multiplications/bin/Debug/net8.0/multiplications.pdb
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/multiplications/obj/Debug/net8.0/multiplications.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/multiplications/obj/Debug/net8.0/multiplications.AssemblyInfoInputs.cache
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/multiplications/obj/Debug/net8.0/multiplications.AssemblyInfo.cs
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/multiplications/obj/Debug/net8.0/multiplications.csproj.CoreCompileInputs.cache
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/multiplications/obj/Debug/net8.0/multiplications.sourcelink.json
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/multiplications/obj/Debug/net8.0/multiplications.dll
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/multiplications/obj/Debug/net8.0/refint/multiplications.dll
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/multiplications/obj/Debug/net8.0/multiplications.pdb
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/multiplications/obj/Debug/net8.0/multiplications.genruntimeconfig.cache
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/multiplications/obj/Debug/net8.0/ref/multiplications.dll
