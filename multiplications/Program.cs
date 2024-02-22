@@ -13,15 +13,52 @@
 
 
 
-System.Console.Write("Quelle table souhaitez vous ? ");
-int tableUser = int.Parse(Console.ReadLine()) ;
 const int MAX = 10 ;
+bool retry = true ;
 
-System.Console.WriteLine();
+while (retry == true) {
 
-for (int i = 0; i <= MAX; i++) {
-    System.Console.WriteLine(i*tableUser);
+    System.Console.Write("Quelle table souhaitez vous ? ");
+    string tableUs = Console.ReadLine() ;
+
+    if (int.TryParse(tableUs, out int number)== true) {
+
+        System.Console.WriteLine();
+        for (int i = 0; i <= MAX; i++) {
+        int result = i*number ;
+        System.Console.WriteLine($"{i} x {tableUs} = {result}");
+        System.Console.WriteLine("-----------");
+        }
+        System.Console.WriteLine();
+        System.Console.Write("Recommencer (o/n) ? ");
+        string choice = Console.ReadLine() ;
+        if (choice != "o") {
+            retry = false ;
+            System.Console.WriteLine();
+            System.Console.WriteLine("Merci au revoir !");
+        }else {
+            System.Console.WriteLine();
+            System.Console.WriteLine("---------------------------------");
+            System.Console.WriteLine();
+        }
+
+    }else if (decimal.TryParse(tableUs, out decimal numberDec) == true) {
+
+        System.Console.WriteLine();
+        System.Console.WriteLine("Veuillez entrer un nombre ENTIER svp");
+        System.Console.WriteLine();
+
+    }else {
+
+        System.Console.WriteLine();
+        System.Console.WriteLine("Veuillez entrer un nombre svp");
+        System.Console.WriteLine();
+    }
 }
+
+
+
+
 
 
 
