@@ -1,5 +1,7 @@
 ﻿
 
+using System.Globalization;
+
 const char LIGNE_HORIZONTALE = '\u2550' ;
 const char LIGNE_VERTICALE = '\u2551' ;
 const char COIN_HAUT_GAUCHE = '\u2554' ;
@@ -7,41 +9,26 @@ const char COIN_HAUT_DROIT = '\u2557' ;
 const char COIN_BAS_GAUCHE = '\u255A' ;
 const char COIN_BAS_DROIT = '\u255D' ;
 
-int surface(int X, int Y) {
-    int surface = X*Y;
-    return surface; 
-}
+
 
 void rectangle(int X, int Y, string[] text) {
 
-
-
-    System.Console.Write(COIN_HAUT_GAUCHE);
-    for (int i = 0; i < X; i++) {
-    System.Console.Write(LIGNE_HORIZONTALE); 
-    }
-    System.Console.WriteLine(COIN_HAUT_DROIT);
-
+    System.Console.WriteLine(COIN_HAUT_GAUCHE.ToString() + new string(LIGNE_HORIZONTALE, X) + COIN_HAUT_DROIT.ToString());
+    
     for (int i = 0; i < Y; i++) {
-        System.Console.Write(LIGNE_VERTICALE);
-        for (int e = 0; e < (X-(text[i].Length))/2; e++) {
-            System.Console.Write(" ");
-        }
-        System.Console.Write(text[i]);
-        for (int e = 0; e < (X-(text[i].Length))/2; e++) {
-            System.Console.Write(" ");
-        }
         
-        System.Console.WriteLine(LIGNE_VERTICALE);
+        System.Console.Write(LIGNE_VERTICALE.ToString() + new string(' ',( (X-(text[i].Length))/2 )) + $"{text[i]}" ) ;
+
+        if ((X-(text[i].Length))%2 == 0) {
+            System.Console.WriteLine(new string(' ',(X-(text[i].Length))/2) + LIGNE_VERTICALE.ToString()) ;
+        } else {
+            System.Console.WriteLine(new string(' ',( (X-(text[i].Length))/2 )+1) + LIGNE_VERTICALE.ToString()) ;
+        }
+
 
     }
 
-    System.Console.Write(COIN_BAS_GAUCHE);
-    for (int i = 0; i < X; i++) {
-        System.Console.Write(LIGNE_HORIZONTALE); 
-    }
-    System.Console.WriteLine(COIN_BAS_DROIT);
-
+    System.Console.WriteLine(COIN_BAS_GAUCHE.ToString() + new string(LIGNE_HORIZONTALE, X) + COIN_BAS_DROIT.ToString());
 }
 
 
@@ -65,4 +52,25 @@ void encadrer(string texte) {
 }
 
 
-encadrer("bonjour\nJe suis nicolas");
+encadrer("hello !\nHow are you ?");
+
+
+
+
+
+/* void encadr(string text) {
+
+    // Calcul nombre de Lignes
+    String[] lignes = text.Split('\n');
+    int nb_lignes = lignes.Length ;
+    System.Console.WriteLine($"{nb_lignes} lignes");
+
+    // Calcul nombre de lignes 
+    int nb_colonnes = 1;
+    foreach (string l in lignes)  {
+        if (l.Length > nb_colonnes) nb_colonnes =l.Length ;
+    }
+    System.Console.WriteLine($"{nb_colonnes} colonnes");
+
+} */
+
