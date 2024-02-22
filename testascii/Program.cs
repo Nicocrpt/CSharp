@@ -24,8 +24,6 @@ void rectangle(int X, int Y, string[] text) {
         } else {
             System.Console.WriteLine(new string(' ',( (X-(text[i].Length))/2 )+1) + LIGNE_VERTICALE.ToString()) ;
         }
-
-
     }
 
     System.Console.WriteLine(COIN_BAS_GAUCHE.ToString() + new string(LIGNE_HORIZONTALE, X) + COIN_BAS_DROIT.ToString());
@@ -58,10 +56,20 @@ encadrer("hello !\nHow are you ?");
 
 
 
-/* void encadr(string text) {
-
+void encadr(string text) {
+    const int Lines = 20 ;
+    string modif ;
+    if (text.Length > 18){
+        decimal ratio = (text.Length)/18 ;
+        int rounded = decimal.ToInt32(ratio) ;
+        rounded = (text.Length)/rounded ;
+        modif = text.Insert(rounded, "\n");
+        System.Console.WriteLine(modif);
+    }else {
+        modif = text ;
+    }
     // Calcul nombre de Lignes
-    String[] lignes = text.Split('\n');
+    String[] lignes = modif.Split('\n');
     int nb_lignes = lignes.Length ;
     System.Console.WriteLine($"{nb_lignes} lignes");
 
@@ -72,5 +80,8 @@ encadrer("hello !\nHow are you ?");
     }
     System.Console.WriteLine($"{nb_colonnes} colonnes");
 
-} */
+}
+
+encadr("lkqslhflqkhsfoiqshdnvqsodihgqpzmesdgjqsdmlfkqjkghkjlkpgiuulgjiljfujgblkighoujfujkfuojfkjgu");
+
 

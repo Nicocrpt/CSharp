@@ -1,0 +1,15 @@
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/fonctions/bin/Debug/net8.0/fonctions
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/fonctions/bin/Debug/net8.0/fonctions.deps.json
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/fonctions/bin/Debug/net8.0/fonctions.runtimeconfig.json
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/fonctions/bin/Debug/net8.0/fonctions.dll
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/fonctions/bin/Debug/net8.0/fonctions.pdb
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/fonctions/obj/Debug/net8.0/fonctions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/fonctions/obj/Debug/net8.0/fonctions.AssemblyInfoInputs.cache
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/fonctions/obj/Debug/net8.0/fonctions.AssemblyInfo.cs
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/fonctions/obj/Debug/net8.0/fonctions.csproj.CoreCompileInputs.cache
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/fonctions/obj/Debug/net8.0/fonctions.sourcelink.json
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/fonctions/obj/Debug/net8.0/fonctions.dll
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/fonctions/obj/Debug/net8.0/refint/fonctions.dll
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/fonctions/obj/Debug/net8.0/fonctions.pdb
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/fonctions/obj/Debug/net8.0/fonctions.genruntimeconfig.cache
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/fonctions/obj/Debug/net8.0/ref/fonctions.dll
