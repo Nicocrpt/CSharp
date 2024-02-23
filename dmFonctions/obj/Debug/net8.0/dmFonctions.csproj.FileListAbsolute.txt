@@ -1,0 +1,15 @@
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/dmFonctions/obj/Debug/net8.0/dmFonctions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/dmFonctions/obj/Debug/net8.0/dmFonctions.AssemblyInfoInputs.cache
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/dmFonctions/obj/Debug/net8.0/dmFonctions.AssemblyInfo.cs
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/dmFonctions/obj/Debug/net8.0/dmFonctions.csproj.CoreCompileInputs.cache
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/dmFonctions/obj/Debug/net8.0/dmFonctions.sourcelink.json
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/dmFonctions/bin/Debug/net8.0/dmFonctions
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/dmFonctions/bin/Debug/net8.0/dmFonctions.deps.json
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/dmFonctions/bin/Debug/net8.0/dmFonctions.runtimeconfig.json
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/dmFonctions/bin/Debug/net8.0/dmFonctions.dll
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/dmFonctions/bin/Debug/net8.0/dmFonctions.pdb
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/dmFonctions/obj/Debug/net8.0/dmFonctions.dll
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/dmFonctions/obj/Debug/net8.0/refint/dmFonctions.dll
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/dmFonctions/obj/Debug/net8.0/dmFonctions.pdb
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/dmFonctions/obj/Debug/net8.0/dmFonctions.genruntimeconfig.cache
+/Users/nico/Documents/IFC/Dev Kurtz/CSharp/dmFonctions/obj/Debug/net8.0/ref/dmFonctions.dll
